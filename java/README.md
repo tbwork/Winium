@@ -1,6 +1,6 @@
 # Winium.WebDriver for Java
 
-[ ![GitHub license](https://img.shields.io/badge/license-MPL 2.0-blue.svg?style=flat-square) ] (../LICENSE)
+![GitHub license](https://img.shields.io/badge/license-MPL2.0-blue.svg?style=flat-square)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/2gis/Winium.StoreApps/assets/winium.png" alt="Winium.WebDriver is an extension of [WebDriver Java bindings](http://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-remote-driver).">
