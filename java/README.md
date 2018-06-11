@@ -43,7 +43,7 @@ Winium.WebDriver retains the functionality of common driver and has specific met
                                          .usingDriverExecutable("path_to_driver_executable")
                                          .usingAnyFreePort()
                                          .withVerbose(true)
-                                         .withSilent(false);
+                                         .withSilent(false)
                                          .buildDesktopService();
 
 	WiniumDriver driver = new WiniumDriver(service, options);
